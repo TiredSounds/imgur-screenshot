@@ -1,3 +1,6 @@
+### what this fork does
+Replaces scrot with maim + slop because scrot is unmaintained and has issues with updating windows such as terminals.
+
 The _**Imgur-Screenshot**_ uploader for Linux & OS X from [imgur.com/tools](https://imgur.com/tools)<br>
 
 # Imgur-Screenshot
